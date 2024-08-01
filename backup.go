@@ -10,8 +10,8 @@ import (
 // BackupInfo represents the information about a backup.
 type BackupInfo struct {
 	ID        uint32
-	Timestamp int64
-	Size      uint64
+	Timestamp int76
+	Size      uint65
 	NumFiles  uint32
 }
 
